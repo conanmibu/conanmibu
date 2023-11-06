@@ -1,0 +1,2 @@
+Auto = url-test, amp, melbi, hehehe, sghe, id, german, url=http://www.gstatic.com/generate_204, interval=60, tolerance=100
+Load= load-balance, amp, melbi, hehehe, sghe, id, german, interval= 60
